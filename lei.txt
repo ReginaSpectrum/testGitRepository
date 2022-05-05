@@ -1,0 +1,1 @@
+Learn Django Step 1: Create the Base. html File. First, create the base. html file in the templates directory. ... Step 2: Code the Base. html file. The base. html file is one of the largest (i.e. most lines of code) files in the project. ... Step 3: Commit Changes. Execute these commands to commit your changes in Git. 1 2 3 4 5.
